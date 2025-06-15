@@ -1,21 +1,21 @@
 # Core app
-streamlit==1.45.1
+streamlit
 
 # Computer Vision
-opencv-python-headless==4.11.0.86
-pillow==11.2.0  # 11.x supports Python 3.12
+opencv-python-headless
+pillow
 
 # Math & ML
-numpy==1.26.4   # 1.26.x is safe for Python 3.12
-scikit-learn==1.4.2
-joblib==1.4.2
+numpy
+scikit-learn
+joblib
 
 # Image Processing
-scikit-image==0.23.2
-mahotas==1.4.18
+scikit-image
+mahotas
 
 # Plotting
-matplotlib==3.8.4
+matplotlib
 
 # Deep Learning
-tensorflow==2.16.1  # Latest stable that supports Python 3.12
+tensorflow
